@@ -1,5 +1,6 @@
 # Ecommerce-website-using-PHP
-An e-commerce website created by using HTML, CSS, JS, JQuery, Bootstrap, PHP and MySQL with Admin Panel
+An e-commerce website created by using HTML, CSS, JS, JQuery, Bootstrap, PHP and MySQL with Admin Panel.
+
 
 # screenshot 
 
@@ -18,6 +19,8 @@ An e-commerce website created by using HTML, CSS, JS, JQuery, Bootstrap, PHP and
 ## AdminPanel 
 Designed by: https://adminlte.io/ ❤️
 <img width="1680" alt="Screen Shot 2022-04-02 at 13 03 12" src="https://user-images.githubusercontent.com/71185753/161385491-585dc8f1-f753-4888-a2ab-01a4b975f31f.png">
+
+ Developed while completion of Udemy course: https://www.udemy.com/course/online-store-e-commerce-website-in-php-mysql-from-scratch/
 
 
 
